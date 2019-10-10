@@ -1,1 +1,4 @@
-sceneSetups: []
+sceneSetups:
+- path: Assets/Complete360Tour/Example/Tour.unity
+  isLoaded: 1
+  isActive: 1
